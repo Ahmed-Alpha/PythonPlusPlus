@@ -1,4 +1,4 @@
-# PythonPlusPlus
+# Python++
 
 ![python++](https://github.com/Ahmed-Alpha/PythonPlusPlus/assets/133564205/120369e4-187c-44a5-9e52-eb63e2f56bf1)
 
